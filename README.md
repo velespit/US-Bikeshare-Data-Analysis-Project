@@ -9,6 +9,10 @@ In this project, _Python_ is used to explore data related to bike share systems 
 bikeshare.py
 
 ### Credits
+
+The link for commit message style reference for this project is given below :
+    - [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/)
+
 Juno Lee (Udacity Mentor)
     - [https://github.com/junolee](https://github.com/junolee)
     - [https://www.linkedin.com/in/junoleelj](https://www.linkedin.com/in/junoleelj)
